@@ -3,7 +3,7 @@
 
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
-    <string name="title">ป้ายจราจร ต้องรู้</string>
+    <string name="title">Traffic sign</string>
     <string name="about">About Me</string>
     <string name="title_activity_show_detail">ShowDetailActivity</string>
 
